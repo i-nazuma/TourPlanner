@@ -36,3 +36,7 @@ build/
 
 ### Mac OS ###
 .DS_Store
+*.iml
+.idea/discord.xml
+.idea/compiler.xml
+.idea/runConfigurations.xml
