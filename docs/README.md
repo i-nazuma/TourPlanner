@@ -1,2 +1,0 @@
-# TourPlanner
-A JavaFX project!
